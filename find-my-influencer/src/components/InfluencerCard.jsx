@@ -39,6 +39,7 @@ const InfluencerCard = ({ influencer }) => {
                         <span key={tag} className="tag">{tag}</span>
                     ))}
                 </div>
+                <p className="card-bio">{influencer.bio}</p>
                 <Link to={`/profile/${influencer.id}`} className="read-more-btn">
                     Read More
                 </Link>
