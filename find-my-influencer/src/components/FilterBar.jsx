@@ -8,7 +8,7 @@ const FilterBar = ({ searchTerm, onSearchChange, filters, onFilterChange }) => {
                 <Search className="search-icon" size={20} />
                 <input
                     type="text"
-                    placeholder="Search influencers by name, handle, or bio..."
+                    placeholder="Search influencers by name, bio, or keyword..."
                     value={searchTerm}
                     onChange={(e) => onSearchChange(e.target.value)}
                     className="search-input"
@@ -27,6 +27,8 @@ const FilterBar = ({ searchTerm, onSearchChange, filters, onFilterChange }) => {
                         <option value="Instagram">Instagram</option>
                         <option value="TikTok">TikTok</option>
                         <option value="YouTube">YouTube</option>
+                        <option value="X / Twitter">X / Twitter</option>
+                        <option value="LinkedIn">LinkedIn</option>
                     </select>
                 </div>
 

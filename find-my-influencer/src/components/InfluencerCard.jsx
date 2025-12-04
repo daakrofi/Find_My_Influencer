@@ -14,7 +14,7 @@ const PlatformIcon = ({ platform }) => {
 const InfluencerCard = ({ influencer }) => {
     return (
         <div className="influencer-card">
-            <div className="card-image-container">
+            <Link to={`/profile/${influencer.id}`} className="card-image-container">
                 <img
                     src={`/influencers/${influencer.image}`}
                     alt={influencer.name}
@@ -30,7 +30,7 @@ const InfluencerCard = ({ influencer }) => {
                         ))}
                     </div>
                 </div>
-            </div>
+            </Link>
             <div className="card-content">
                 <h3 className="card-handle">@{influencer.handle}</h3>
                 <p className="card-name">{influencer.name}</p>

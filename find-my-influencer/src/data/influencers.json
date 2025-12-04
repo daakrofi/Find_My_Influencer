@@ -4,9 +4,9 @@
     "name": "Amira (@amira.moves)",
     "handle": "amira.moves",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Exceptional engagement for her tier. Deep authenticity in eco/wellness space (walks the talk). Connects strongly with women and BIPOC runners",
@@ -147,9 +147,9 @@
     "name": "Luca (@lucab_run)",
     "handle": "lucab_run",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Exceptionally engaging running vlogs and humor. Highly trusted on gear reviews and training advice. Community challenges and races create loyal, repeat viewers",
@@ -292,9 +292,9 @@
     "name": "Maya (@mayathesun)",
     "handle": "mayathesun",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Bilingual, multicultural, and internationally appealing. High authenticity and gentle authority in the wellness space. Excellent at brand storytelling without feeling forced",
@@ -434,15 +434,18 @@
   },
   {
     "id": 3,
-    "name": "Full Name: Dev",
+    "name": "Dev",
     "handle": "devreviews",
     "platform": [
-      "YouTube",
-      "Instagram"
+      "Instagram",
+      "X / Twitter",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Deepest technical authority in running/fitness tech space. Audience trusts his objectivity\u2014rarely does \u201chype\u201d. High-quality production, excellent at making data accessible",
-    "tags": [],
+    "tags": [
+      "Notable"
+    ],
     "image": "devreviews.jpeg",
     "sections": [
       {
@@ -452,7 +455,8 @@
           "Full Name: Dev",
           "YouTube: Dev Reviews",
           "Instagram: @devreviews",
-          "Twitter/X: @devreviews"
+          "Twitter/X: @devreviews",
+          "X/Twitter: @devreviews_tech"
         ]
       },
       {
@@ -460,7 +464,8 @@
         "content": [
           "YouTube: 980,000 subscribers",
           "Instagram: 870,000 followers",
-          "Twitter/X: 720,000 followers"
+          "Twitter/X: 720,000 followers",
+          "X/Twitter: 15,200 followers"
         ]
       },
       {
@@ -481,7 +486,8 @@
           "YouTube: 1\u20132 long-form videos/week (15\u201325 mins, highly produced)",
           "Instagram: 2\u20133 posts/week (mostly gear closeups and short reels), stories nearly daily",
           "Twitter/X: 4\u20135 tweets per week, mainly hot takes, Q&As, and gear news",
-          "Activity: Highly reliable; posts on a schedule and rarely misses uploads"
+          "Activity: Highly reliable; posts on a schedule and rarely misses uploads",
+          "X/Twitter: Daily threads & hot takes on tech releases"
         ]
       },
       {
@@ -517,7 +523,8 @@
           "Twitter/X:",
           "Avg. likes/tweet: 2,200",
           "Avg. replies/tweet: 310",
-          "Engagement rate: 1.8%"
+          "Engagement rate: 1.8%",
+          "X/Twitter: High retweet rate on controversial tech opinions; viral threads common"
         ]
       },
       {
@@ -559,7 +566,8 @@
           "Twitter/X Campaign: \u00a31,100",
           "Full Campaign (multi-platform): \u00a39,800",
           "Discounts: 20% for multi-platform bundles, 10%/month off for >2 months",
-          "Negotiation: Open, but only takes brands whose claims he can vet and stand behind"
+          "Negotiation: Open, but only takes brands whose claims he can vet and stand behind",
+          "X/Twitter Post: \u00a3500"
         ]
       },
       {
@@ -577,9 +585,9 @@
     "name": "Sierra (@sierra.leung)",
     "handle": "sierra.leung",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "High-energy, visually striking content with viral appeal. Unique blend of athleticism and style\u2014\u201curban fitness meets streetwear\u201d. Excellent at executing bold branded stunts and pop-up city events",
@@ -719,12 +727,12 @@
   },
   {
     "id": 5,
-    "name": "Full Name: Layla Freeman",
+    "name": "Layla Freeman",
     "handle": "laylafreely",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Exceptionally relatable and trusted for wellness and lifestyle. \u201cSunday Reset\u201d series creates habitual viewers. Strong role model for young Black British women",
@@ -864,12 +872,12 @@
   },
   {
     "id": 6,
-    "name": "Full Name: Kian Murphy",
+    "name": "Kian Murphy",
     "handle": "kian.on.the.run",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Great crossover audience\u2014strong in both Ireland and UK. Exceptional at making \u201ccity running\u201d accessible and fun. Real-world meetups foster highly loyal, active local community",
@@ -1010,9 +1018,9 @@
     "name": "Hiba (@hibatriesagain)",
     "handle": "hibatriesagain",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Humor and \u201cchallenge\u201d angle drives engagement and virality. Excellent at building community around peer-to-peer challenges. Relatable, supportive, and especially trusted by South Asian and Muslim women",
@@ -1150,10 +1158,11 @@
   },
   {
     "id": 8,
-    "name": "Full Name: Miles",
+    "name": "Miles",
     "handle": "milesdadondada",
     "platform": [
       "Instagram",
+      "X / Twitter",
       "TikTok"
     ],
     "followers": "Unknown",
@@ -1168,7 +1177,8 @@
           "Full Name: Miles",
           "Instagram: @milesdadondada",
           "TikTok: @milesdadondada",
-          "Twitter/X: @milesdadondada"
+          "Twitter/X: @milesdadondada",
+          "X/Twitter: @miles_runs"
         ]
       },
       {
@@ -1176,7 +1186,8 @@
         "content": [
           "Instagram: 450,000 followers",
           "TikTok: 220,000 followers",
-          "Twitter/X: 130,000 followers"
+          "Twitter/X: 130,000 followers",
+          "X/Twitter: 22,500 followers"
         ]
       },
       {
@@ -1197,7 +1208,8 @@
           "Instagram: 3 posts/week + stories several times/week (unboxings, Q&As, style picks)",
           "TikTok: 2 videos/week (sneaker closeups, quick gear reviews)",
           "Twitter/X: 4\u20137 tweets/week (debates, live race commentary, meme threads)",
-          "Activity: Very consistent, highly responsive to sneaker drops and trending news"
+          "Activity: Very consistent, highly responsive to sneaker drops and trending news",
+          "X/Twitter: Live-tweeting races and viral running memes (3-5x/day)"
         ]
       },
       {
@@ -1233,7 +1245,8 @@
           "Twitter/X:",
           "Avg. likes/tweet: 1,200",
           "Avg. replies/tweet: 240",
-          "Engagement rate: 1.6%"
+          "Engagement rate: 1.6%",
+          "X/Twitter: High engagement during major marathon weekends"
         ]
       },
       {
@@ -1275,7 +1288,8 @@
           "Twitter/X Campaign: \u00a3800",
           "Multi Cross-platform (one post per platform): \u00a34,000",
           "Discounts: 20% for cross-platform, 10%/month for multi-month",
-          "Negotiation: Prefers brands with \u201creal street cred,\u201d flexible on bundle deals"
+          "Negotiation: Prefers brands with \u201creal street cred,\u201d flexible on bundle deals",
+          "X/Twitter Post: \u00a3450"
         ]
       },
       {
@@ -1293,9 +1307,9 @@
     "name": "Cassie (@cassmakesachange)",
     "handle": "cassmakesachange",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "One of the few plus-size and non-binary focused running creators. High trust among marginalized runners and new fitness joiners. Uplifting, educational content that builds genuine community",
@@ -1435,9 +1449,9 @@
     "name": "Eliot (@tagitbagitrunit)",
     "handle": "tagitbagitrunit",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Unique fusion of music, art, and running content. Highly engaged bilingual, multicultural urban audience. Creative visuals, playlist curation, and in-person event hosting",
@@ -1577,9 +1591,9 @@
     "name": "Priya  (@priyaplacesfirst)",
     "handle": "priyaplacesfirst",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Makes sustainability and nutrition science accessible and fun. Beloved by vegan and eco-conscious runners. High credibility\u2014audience trusts her research and advice",
@@ -1718,12 +1732,13 @@
   },
   {
     "id": 12,
-    "name": "Full Name: Joel McLeod",
+    "name": "Joel McLeod",
     "handle": "joel.mcleod",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "LinkedIn"
     ],
     "followers": "Unknown",
     "bio": "Expert mythbuster; great for evidence-first campaigns. Trusted coach persona\u2014direct, honest, and often motivational. Excellent engagement with male and older fitness audiences",
@@ -1739,7 +1754,8 @@
           "Full Name: Joel McLeod",
           "YouTube: Joel Trains",
           "TikTok: @joel.mcleod",
-          "Instagram: @joel.mcleod"
+          "Instagram: @joel.mcleod",
+          "LinkedIn: Joel McLeod"
         ]
       },
       {
@@ -1747,7 +1763,8 @@
         "content": [
           "YouTube: 270,000 subscribers",
           "TikTok: 360,000 followers",
-          "Instagram: 140,000 followers"
+          "Instagram: 140,000 followers",
+          "LinkedIn: 25,000 followers"
         ]
       },
       {
@@ -1768,7 +1785,8 @@
           "YouTube: 1 video/week (mythbusting or workout feature)",
           "TikTok: 3\u20134 videos/week (quick routines, debunks, trending audio challenges)",
           "Instagram: 1\u20132 posts/week + regular stories (training updates, Q&A)",
-          "Activity: Consistent, known for timely responses to trends and controversies"
+          "Activity: Consistent, known for timely responses to trends and controversies",
+          "LinkedIn: Daily leadership tips and executive coaching insights"
         ]
       },
       {
@@ -1805,7 +1823,8 @@
           "Avg. likes/post: 2,800",
           "Avg. comments/post: 75",
           "Engagement rate: 2.1%",
-          "Stories: 7,400 avg. views"
+          "Stories: 7,400 avg. views",
+          "LinkedIn: High engagement from C-suite executives and founders"
         ]
       },
       {
@@ -1848,7 +1867,8 @@
           "Instagram Story (3 slides): \u00a3500",
           "Multi Cross-platform (one post per platform): \u00a32,700",
           "Discounts: 15% for misc. bundles, 10%/month for ongoing campaigns",
-          "Negotiation: Open, prefers brands willing to collaborate on transparent, factual campaigns"
+          "Negotiation: Open, prefers brands willing to collaborate on transparent, factual campaigns",
+          "LinkedIn Post: \u00a31,500"
         ]
       },
       {
@@ -1866,9 +1886,9 @@
     "name": "Sonia Chukwuma (@sonia.frfr)",
     "handle": "sonia.moves",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Unique Afrobeat + fitness hybrid content. Deep community roots, both online and in-person. Motivational, inclusive energy\u2014empowers women and young runners",
@@ -2011,9 +2031,9 @@
     "name": "Zhang (@roryzhang)",
     "handle": "roryzhang",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Clean, eye-catching aesthetic stands out in eco/fitness content. Gender-inclusive and minimalist perspective resonates with Gen Z. DIY and upcycling expertise builds creative engagement",
@@ -2152,9 +2172,9 @@
     "name": "Aidan (@aidanxtreme)",
     "handle": "aidanxtreme",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Viral, high-risk fitness content attracts big audiences. Excellent live engagement; strong, interactive fan base. Charismatic, memorable personality with a playful edge",
@@ -2298,9 +2318,9 @@
     "name": "Leah (@leahrunswild)",
     "handle": "leahrunswild",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Strong credibility with outdoor/adventure and \u201cslow living\u201d audience. One of the few Scottish rural/wild swim creators. Highly authentic, transparent about mental health and brand partnerships",
@@ -2449,9 +2469,9 @@
     "name": "Tobi (@tobitakesoff)",
     "handle": "tobitakesoff",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Highly relatable content for working professionals. Unique \u201cweekend runner\u201d perspective\u2014balances career with athletic goals. Vocal about supporting Black-owned brands and urban sustainability",
@@ -2593,9 +2613,9 @@
     "name": "Bethan (@localbethanevans)",
     "handle": "bethanrunslocal",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Warm, approachable vibe makes beginners feel welcome. Unique park run ambassador, strong local engagement. Focus on affordable, sustainable gear fills a real niche",
@@ -2734,9 +2754,9 @@
     "name": "Yusuf (@yusuf_vs_theworld)",
     "handle": "yusuf",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Uniquely spiritual, holistic approach to running and recovery. Highly trusted among followers seeking alternative wellness. Strong engagement on mindfulness and yoga content",
@@ -2876,9 +2896,10 @@
     "name": "Carys (@carystravelsize)",
     "handle": "carystravels",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "LinkedIn"
     ],
     "followers": "Unknown",
     "bio": "Unique focus on eco-travel and \u201crunning tourism\u201d. Provides detailed guides for green packing and affordable running trips. Inspires \u201crun the world\u201d wanderlust with authentic and beautiful visuals",
@@ -2892,7 +2913,8 @@
           "Carys (@carystravelsize)",
           "Instagram: @carystravelsize",
           "YouTube: Cary - Travel Size",
-          "TikTok: @carystravelsize"
+          "TikTok: @carystravelsize",
+          "LinkedIn: Carys Travels"
         ]
       },
       {
@@ -2900,7 +2922,8 @@
         "content": [
           "Instagram: 8,000 followers",
           "YouTube: 4,000 subscribers",
-          "TikTok: 9,000 followers"
+          "TikTok: 9,000 followers",
+          "LinkedIn: 5,200 connections"
         ]
       },
       {
@@ -2921,7 +2944,8 @@
           "Instagram: 1\u20132 posts/week (travel highlights, gear flatlays, scenic shots)",
           "YouTube: 1 video/2\u20133 weeks (travelogues, eco-stay reviews, running tours)",
           "TikTok: 1\u20132 videos/week (quick \u201crun the city\u201d reels, eco gear demos)",
-          "Activity: Regular with occasional content bursts during travel"
+          "Activity: Regular with occasional content bursts during travel",
+          "LinkedIn: Monthly trends in eco-tourism and travel industry"
         ]
       },
       {
@@ -2957,7 +2981,8 @@
           "TikTok:",
           "Avg. views/video: 380",
           "Avg. comments/video: 7",
-          "Engagement rate: 2.1%"
+          "Engagement rate: 2.1%",
+          "LinkedIn: Niche engagement from travel agencies and eco-brands"
         ]
       },
       {
@@ -3000,7 +3025,8 @@
           "TikTok Video: \u00a350",
           "Multi Cross-platform (one post per platform): \u00a3180",
           "Discounts: 15% for misc. bundles, 10%/month for long-term deals",
-          "Negotiation: Very open, especially for sustainable and travel brands with accessible offers"
+          "Negotiation: Very open, especially for sustainable and travel brands with accessible offers",
+          "LinkedIn Post: \u00a3600"
         ]
       },
       {
@@ -3018,9 +3044,10 @@
     "name": "Rajiv (@runwithrajiv)",
     "handle": "runwithrajiv",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "X / Twitter"
     ],
     "followers": "Unknown",
     "bio": "Deep, nerdy tech focus with honest comparisons. Approachable and clear communicaton, good for new/budget runners. Quirky, relatable style appeals to younger, geekier audience",
@@ -3034,7 +3061,8 @@
           "Rajiv (@runwithrajiv)",
           "Instagram: @runwithrajiv",
           "TikTok: @runwithrajiv",
-          "YouTube: Run with Rajiv"
+          "YouTube: Run with Rajiv",
+          "X/Twitter: @rajivcoaches"
         ]
       },
       {
@@ -3042,7 +3070,8 @@
         "content": [
           "Instagram: 12,000 followers",
           "TikTok: 6,000 followers",
-          "YouTube: 2,000 subscribers"
+          "YouTube: 2,000 subscribers",
+          "X/Twitter: 8,100 followers"
         ]
       },
       {
@@ -3063,7 +3092,8 @@
           "Instagram: 2 posts/week (gear reviews, unboxing photos, training highlights)",
           "TikTok: 1\u20132 videos/week (gadget tests, accessory demos, POV runs)",
           "YouTube: 1\u20132 videos/month (detailed reviews, tech deep-dives)",
-          "Activity: Regular, with more content during major tech launches or race events"
+          "Activity: Regular, with more content during major tech launches or race events",
+          "X/Twitter: Weekly Q&A threads and coaching tips"
         ]
       },
       {
@@ -3100,7 +3130,8 @@
           "YouTube:",
           "Avg. views/video: 70",
           "Avg. comments/video: 2",
-          "Engagement rate: 0.9%"
+          "Engagement rate: 0.9%",
+          "X/Twitter: High reply rate from beginner runners seeking advice"
         ]
       },
       {
@@ -3143,7 +3174,8 @@
           "YouTube Video: \u00a365",
           "Multi Cross-platform (one post per platform): \u00a3160",
           "Discounts: 15% for misc. bundles, 10%/month for ongoing",
-          "Negotiation: Open, especially for tech and gear brands targeting runners"
+          "Negotiation: Open, especially for tech and gear brands targeting runners",
+          "X/Twitter Post: \u00a3300"
         ]
       },
       {
@@ -3161,9 +3193,10 @@
     "name": "Tina (@tinawellcity)",
     "handle": "tinawellcity",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "LinkedIn"
     ],
     "followers": "Unknown",
     "bio": "Exceptionally accessible, practical fitness and wellness for city students. Known for honest, supportive, non-intimidating approach. Good at bite-sized, budget-friendly content",
@@ -3179,7 +3212,8 @@
           "Tina (@tinawellcity)",
           "Instagram: @tinawellcity",
           "TikTok: @tinawellcity",
-          "YouTube: Tina Well City"
+          "YouTube: Tina Well City",
+          "LinkedIn: Tina Wells"
         ]
       },
       {
@@ -3187,7 +3221,8 @@
         "content": [
           "Instagram: 3,800 followers",
           "TikTok: 4,100 followers",
-          "YouTube: 1,200 subscribers"
+          "YouTube: 1,200 subscribers",
+          "LinkedIn: 12,000 connections"
         ]
       },
       {
@@ -3208,7 +3243,8 @@
           "Instagram: 1\u20132 posts/week (jog selfies, wellness tips, quick recipes)",
           "TikTok: 2 videos/week (routine demos, mini meal-preps, pep talks)",
           "YouTube: 1\u20132 videos/month (routine walkthroughs, city living advice)",
-          "Activity: Steady, with rare short breaks around exam seasons or personal events"
+          "Activity: Steady, with rare short breaks around exam seasons or personal events",
+          "LinkedIn: Weekly articles on student wellness and budget living"
         ]
       },
       {
@@ -3245,7 +3281,8 @@
           "YouTube:",
           "Avg. views/video: 48",
           "Avg. comments/video: 1",
-          "Engagement rate: 0.8%"
+          "Engagement rate: 0.8%",
+          "LinkedIn: Strong engagement from university wellbeing officers"
         ]
       },
       {
@@ -3288,7 +3325,8 @@
           "YouTube Video: \u00a320",
           "Multi Cross-platform (one post per platform): \u00a375",
           "Discounts: 12% for misc. bundles, 8%/month for long-term",
-          "Negotiation: Very open, especially for brands targeting students, women, and beginner-friendly wellness"
+          "Negotiation: Very open, especially for brands targeting students, women, and beginner-friendly wellness",
+          "LinkedIn Post: \u00a3800"
         ]
       },
       {
@@ -3304,12 +3342,12 @@
   },
   {
     "id": 23,
-    "name": "Full Name: Natasha",
+    "name": "Natasha",
     "handle": "callmenatasha",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Strong eye for mix-and-match eco fashion, style-forward content. Accessible and relatable for young women, especially students. Good production value, lots of \u201coutfit inspo\u201d and practical styling",
@@ -3449,9 +3487,9 @@
     "name": "Ari (@arirunrecover)",
     "handle": "arirunrecover",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Exceptionally relatable, approachable for first-time runners. Practical, non-intimidating advice on eco routines and recovery. High trust for honest reviews and gentle, real-life vlogs",
@@ -3591,9 +3629,9 @@
     "name": "Hannah (@hannahtherunner)",
     "handle": "hannahtherunner",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Ultra-accessible, beginner-friendly advice; low intimidation factor. Focus on simple eco habits for city students. Cheerful, supportive voice that encourages fitness \u201cfrom zero\u201d",
@@ -3734,9 +3772,9 @@
     "name": "Sam (@sammorisson)",
     "handle": "sammorisson",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Exceptionally high trust\u2014followers love the honesty and \u201creal life\u201d approach. Strong community interaction; followers feel seen and heard. Candid, self-deprecating humor makes sponsored content more relatable",
@@ -3877,9 +3915,9 @@
     "name": "Kenji (@kenjicityrun)",
     "handle": "kenjicityrun",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Strong city/minimalist visual style, appealing to young urban runners. Relatable tech and gear advice for small apartment/urban living. Consistent focus on eco gear and smart solutions",
@@ -4020,9 +4058,9 @@
     "name": "Charlotte (@runwithcharlotte)",
     "handle": "runwithcharlotte",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube"
     ],
     "followers": "Unknown",
     "bio": "Powerful support for women restarting fitness after injury or burnout. Honest, no-nonsense voice with gentle encouragement. Fills a needed gap for \u201cgentle\u201d running and mental health-first content",
@@ -4163,9 +4201,10 @@
     "name": "Anika Sethi (@anika4all)",
     "handle": "anikainclusive",
     "platform": [
-      "YouTube",
       "Instagram",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "LinkedIn"
     ],
     "followers": "Unknown",
     "bio": "Uniquely inclusive, non-binary and LGBTQ+ perspective on running and wellness. Highly supportive, welcoming, and practical advice. Regular Q&A builds community trust and ongoing engagement",
@@ -4179,7 +4218,8 @@
           "Anika Sethi (@anika4all)",
           "Instagram: @anika4all",
           "TikTok: @anika4all",
-          "YouTube: Anika Inclusive"
+          "YouTube: Anika Inclusive",
+          "LinkedIn: Anika Green"
         ]
       },
       {
@@ -4187,7 +4227,8 @@
         "content": [
           "Instagram: 9,500 followers",
           "TikTok: 13,000 followers",
-          "YouTube: 4,100 subscribers"
+          "YouTube: 4,100 subscribers",
+          "LinkedIn: 18,500 followers"
         ]
       },
       {
@@ -4207,7 +4248,8 @@
           "Instagram: 2 posts/week (inclusive training highlights, Q&A, gear picks)",
           "TikTok: 2\u20133 videos/week (short vlogs, product demos, \u201crun with me\u201d stories)",
           "YouTube: 2 videos/month (deeper dives, inclusive running advice, social commentary)",
-          "Activity: Consistent, with extra content during Pride, LGBTQ+ History Month, and major campaigns"
+          "Activity: Consistent, with extra content during Pride, LGBTQ+ History Month, and major campaigns",
+          "LinkedIn: Bi-weekly thought leadership on DE&I in sports"
         ]
       },
       {
@@ -4244,7 +4286,8 @@
           "YouTube:",
           "Avg. views/video: 430",
           "Avg. comments/video: 15",
-          "Engagement rate: 4.3%"
+          "Engagement rate: 4.3%",
+          "LinkedIn: High share rate by corporate diversity networks"
         ]
       },
       {
@@ -4287,7 +4330,8 @@
           "YouTube Video: \u00a326",
           "Multi Cross-platform (one post per platform): \u00a3100",
           "Discounts: 12% for misc. bundles, 8%/month for ongoing",
-          "Negotiation: Very open, especially for inclusive, accessible, and sustainability-focused brands"
+          "Negotiation: Very open, especially for inclusive, accessible, and sustainability-focused brands",
+          "LinkedIn Post: \u00a31,200"
         ]
       },
       {

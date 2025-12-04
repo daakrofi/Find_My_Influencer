@@ -178,19 +178,22 @@ h6 {
 .influencer-card {
   background: var(--bg-card);
   border-radius: var(--radius-lg);
-  overflow: hidden;
+  /* overflow: hidden; Removed to allow tooltip */
   box-shadow: var(--shadow-sm);
   transition: all 0.3s ease;
   cursor: pointer;
   border: 1px solid var(--border-color);
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .influencer-card:hover {
   transform: translateY(-5px);
   box-shadow: var(--shadow-xl);
   border-color: var(--primary);
+  z-index: 10;
+  /* Ensure hovered card is on top */
 }
 
 .card-image-container {
@@ -200,6 +203,7 @@ h6 {
   /* 4:5 Aspect Ratio */
   overflow: hidden;
   background: #f1f5f9;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
 }
 
 .card-image {
