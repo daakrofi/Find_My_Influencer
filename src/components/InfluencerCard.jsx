@@ -1,0 +1,46 @@
+import React from 'react';
+import { Instagram, Youtube, Video } from 'lucide-react';
+
+const PlatformIcon = ({ platform }) => {
+    switch (platform.toLowerCase()) {
+        case 'instagram': return <Instagram size={16} />;
+        case 'youtube': return <Youtube size={16} />;
+        case 'tiktok': return <Video size={16} />; // Lucide doesn't have TikTok, using Video as proxy or we can use text
+        default: return null;
+    }
+};
+
+const InfluencerCard = ({ influencer, onClick }) => {
+    return (
+        <div className="influencer-card" onClick={() => onClick(influencer)}>
+            <div className="card-image-container">
+                <img
+                    src={`/src/assets/influencers/${influencer.image}`}
+                    alt={influencer.name}
+                    className="card-image"
+                    onError={(e) => { e.target.src = 'https://via.placeholder.com/300x400?text=No+Image'; }}
+                />
+                <div className="card-overlay">
+                    <div className="card-platforms">
+                        {influencer.platform.map(p => (
+                            <span key={p} className="platform-badge" title={p}>
+                                <PlatformIcon platform={p} />
+                            </span>
+                        ))}
+                    </div>
+                </div>
+            </div>
+            <div className="card-content">
+                <h3 className="card-handle">@{influencer.handle}</h3>
+                <p className="card-name">{influencer.name}</p>
+                <div className="card-tags">
+                    {influencer.tags.slice(0, 2).map(tag => (
+                        <span key={tag} className="tag">{tag}</span>
+                    ))}
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default InfluencerCard;
