@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Instagram, Youtube, Video } from 'lucide-react';
 
 const PlatformIcon = ({ platform }) => {
@@ -10,12 +11,12 @@ const PlatformIcon = ({ platform }) => {
     }
 };
 
-const InfluencerCard = ({ influencer, onClick }) => {
+const InfluencerCard = ({ influencer }) => {
     return (
-        <div className="influencer-card" onClick={() => onClick(influencer)}>
+        <div className="influencer-card">
             <div className="card-image-container">
                 <img
-                    src={`/src/assets/influencers/${influencer.image}`}
+                    src={`/influencers/${influencer.image}`}
                     alt={influencer.name}
                     className="card-image"
                     onError={(e) => { e.target.src = 'https://via.placeholder.com/300x400?text=No+Image'; }}
@@ -38,6 +39,9 @@ const InfluencerCard = ({ influencer, onClick }) => {
                         <span key={tag} className="tag">{tag}</span>
                     ))}
                 </div>
+                <Link to={`/profile/${influencer.id}`} className="read-more-btn">
+                    Read More
+                </Link>
             </div>
         </div>
     );
