@@ -611,10 +611,17 @@ h6 {
   font-weight: 500;
 }
 
+.dossier-section {
+  margin-bottom: 2.5rem;
+}
+
 .profile-dossier h3 {
-  font-size: 1.5rem;
-  margin-bottom: 1.5rem;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
   color: var(--text-main);
+  border-bottom: 2px solid #f1f5f9;
+  padding-bottom: 0.5rem;
+  display: inline-block;
 }
 
 .dossier-text {

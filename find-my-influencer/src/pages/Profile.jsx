@@ -77,16 +77,22 @@ const Profile = () => {
                     </header>
 
                     <div className="profile-dossier">
-                        <h3>Full Dossier</h3>
-                        <div className="dossier-text">
-                            {influencer.full_details && influencer.full_details.length > 0 ? (
-                                influencer.full_details.map((line, index) => (
-                                    <p key={index} className="dossier-line">{line}</p>
-                                ))
-                            ) : (
+                        {influencer.sections && influencer.sections.length > 0 ? (
+                            influencer.sections.map((section, index) => (
+                                <div key={index} className="dossier-section">
+                                    <h3>{section.title}</h3>
+                                    <div className="dossier-text">
+                                        {section.content.map((line, i) => (
+                                            <p key={i} className="dossier-line">{line}</p>
+                                        ))}
+                                    </div>
+                                </div>
+                            ))
+                        ) : (
+                            <div className="dossier-text">
                                 <p>{influencer.bio}</p>
-                            )}
-                        </div>
+                            </div>
+                        )}
                     </div>
                 </div>
             </div>
