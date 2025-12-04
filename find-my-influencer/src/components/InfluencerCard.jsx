@@ -44,6 +44,10 @@ const InfluencerCard = ({ influencer }) => {
                     Read More
                 </Link>
             </div>
+            <div className="card-tooltip">
+                <h4>About {influencer.name}</h4>
+                <p>{influencer.bio}</p>
+            </div>
         </div>
     );
 };
